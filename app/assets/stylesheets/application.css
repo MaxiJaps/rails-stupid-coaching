@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+
+ body {
+   background: #F4F4F4;
+ }
+
+ .banner {
+  background: red;
+ }
+
+h1 {
+  font-size: 50px;
+}
+
+a {
+  color: grey;
+}
+
+a:hover {
+  color: black;
+}
